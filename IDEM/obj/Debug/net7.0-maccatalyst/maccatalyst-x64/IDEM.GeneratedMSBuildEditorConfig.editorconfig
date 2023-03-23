@@ -1,0 +1,59 @@
+is_global = true
+build_property.TargetFramework = net7.0-maccatalyst
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = IDEM
+build_property.ProjectDir = C:\Users\danil\Desktop\WASP\Project\idem_app_final\IDEM\IDEM\
+
+[C:/Users/danil/Desktop/WASP/Project/idem_app_final/IDEM/IDEM/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = IDEM.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/danil/Desktop/WASP/Project/idem_app_final/IDEM/IDEM/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = IDEM.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/danil/Desktop/WASP/Project/idem_app_final/IDEM/IDEM/de_sterrennacht.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = IDEM.de_sterrennacht.xaml
+build_metadata.AdditionalFiles.TargetPath = de_sterrennacht.xaml
+build_metadata.AdditionalFiles.RelativePath = de_sterrennacht.xaml
+
+[C:/Users/danil/Desktop/WASP/Project/idem_app_final/IDEM/IDEM/ListPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = IDEM.ListPage.xaml
+build_metadata.AdditionalFiles.TargetPath = ListPage.xaml
+build_metadata.AdditionalFiles.RelativePath = ListPage.xaml
+
+[C:/Users/danil/Desktop/WASP/Project/idem_app_final/IDEM/IDEM/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = IDEM.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/danil/Desktop/WASP/Project/idem_app_final/IDEM/IDEM/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = IDEM.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/danil/Desktop/WASP/Project/idem_app_final/IDEM/IDEM/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = IDEM.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/danil/Desktop/WASP/Project/idem_app_final/IDEM/IDEM/ScanerPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = IDEM.ScanerPage.xaml
+build_metadata.AdditionalFiles.TargetPath = ScanerPage.xaml
+build_metadata.AdditionalFiles.RelativePath = ScanerPage.xaml

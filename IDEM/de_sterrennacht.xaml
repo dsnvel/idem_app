@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="IDEM.de_sterrennacht"
+             Title="Звездная ночь">
+    <VerticalStackLayout>
+        <ScrollView>
+            <StackLayout>
+                <Image Source="Resources/Images/de_sterrennacht.jpg" VerticalOptions="Start" HorizontalOptions="Center"/>
+                <Label Text="Звездная ночь" Padding="5" HorizontalOptions="Center"/>
+                <Label Text="Винсент Ван Гог" Padding="5" HorizontalOptions="Center"/>
+                <Label Text="В мае 1889 года, во время очередного обсуждения планов с Гогеном, Ван Гог внезапно пришел в неистовство и набросился на друга с бритвой в руках. До конца не ясно, что именно произошло, но позднее ночью Винсент отрезал себе мочку уха. Его забрали в психиатрическую лечебницу в Арле, где через месяц после происшествия художник написал картину «Звездная ночь». И хотя Ван Гог изобразил вид из окна больницы, большая часть экспозиции вымышленная: ему было видно только пшеничное поле и небо" 
+                       HorizontalOptions="Start" Padding="5"/>
+            </StackLayout>
+        </ScrollView>
+    </VerticalStackLayout>
+</ContentPage>
